@@ -1,0 +1,7 @@
+D:\CSharpLab\TestTask\TestTaskApp\bin\Debug\TestTaskApp.exe.config
+D:\CSharpLab\TestTask\TestTaskApp\bin\Debug\TestTaskApp.exe
+D:\CSharpLab\TestTask\TestTaskApp\bin\Debug\TestTaskApp.pdb
+D:\CSharpLab\TestTask\TestTaskApp\obj\Debug\TestTaskApp.csprojAssemblyReference.cache
+D:\CSharpLab\TestTask\TestTaskApp\obj\Debug\TestTaskApp.csproj.CoreCompileInputs.cache
+D:\CSharpLab\TestTask\TestTaskApp\obj\Debug\TestTaskApp.exe
+D:\CSharpLab\TestTask\TestTaskApp\obj\Debug\TestTaskApp.pdb
